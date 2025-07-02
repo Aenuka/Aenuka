@@ -1,11 +1,11 @@
-<h1 align="center">Hi there! 👋 I'm Aenuka</h1>Add commentMore actions
+<h1 align="center">Hi there! 👋 I'm Aenuka</h1>
 
 <p align="center">
   🎓 Software Engineering Undergraduate at <strong>SLIIT</strong><br>
   💻 Passionate about Backend, Frontend, and Mobile App Development<br>
   🌱 Eager learner, team player, and tech enthusiast<br>
   🌟 Always up for mentoring and continuous growth<br>
-</p> make this more modern and creative design 
+</p> 
 
 ---
 
