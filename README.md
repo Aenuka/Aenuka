@@ -46,6 +46,26 @@
 
 ---
 
+## 📊 GitHub Stats & Graphs
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aenuka&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aenuka&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aenuka&theme=react-dark&bg_color=1a1b27&color=00e5ff&line=00e5ff&point=ffffff&hide_border=true" alt="Activity Graph" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=aenuka&theme=tokyonight&column=7&no-frame=true" alt="GitHub Trophies" />
+</p>
+
+---
+
 ## 🚀 Featured Projects
 
 ### 🌾 Cey Harvest System *(AIESEC IDEALIZE 2025 - Ongoing)*
@@ -71,26 +91,6 @@
 - 📜 **NIBM**  
   Certificate in Computer Science  
   Advanced Certificate in English Language
-
----
-
-## 📊 GitHub Stats & Graphs
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aenuka&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aenuka&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aenuka&theme=react-dark&bg_color=1a1b27&color=00e5ff&line=00e5ff&point=ffffff&hide_border=true" alt="Activity Graph" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=aenuka&theme=tokyonight&column=7&no-frame=true" alt="GitHub Trophies" />
-</p>
 
 ---
 
