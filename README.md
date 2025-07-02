@@ -9,6 +9,10 @@
 
 ---
 
+<table>
+  <tr>
+    <td valign="top" width="50%">
+
 ### 🧠 Skills & Technologies
 
 #### 👨‍💻 Programming Languages
@@ -40,7 +44,8 @@
   <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white"/>
 </p>
 
----
+    </td>
+    <td valign="top" width="50%">
 
 ### 📊 GitHub Stats
 
@@ -51,6 +56,10 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aenuka&layout=compact&theme=radical" alt="Top Languages" />
 </p>
+
+    </td>
+  </tr>
+</table>
 
 ---
 
