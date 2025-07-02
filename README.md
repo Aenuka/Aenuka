@@ -46,18 +46,10 @@
 
 ---
 
-## 📊 GitHub Stats & Graphs
+## 📈 GitHub Activity (Last 2 Years)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aenuka&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aenuka&theme=react-dark&bg_color=1a1b27&color=00e5ff&line=00e5ff&point=ffffff&hide_border=true" alt="Activity Graph" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=aenuka&theme=tokyonight&column=7&no-frame=true" alt="GitHub Trophies" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aenuka&from=2023-07-01&to=2025-07-01&theme=react-dark&hide_border=true" alt="GitHub Activity Graph" />
 </p>
 
 ---
