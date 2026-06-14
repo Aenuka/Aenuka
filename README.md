@@ -1,6 +1,6 @@
 <h1 align="center">Aenuka's Github Profile</h1>
 <p align="center">
-  <img src="rect63.png" width="120" height="120" alt="Profile Image">
+  <img src="rectL26.png" width="120" height="120" alt="Profile Image">
 </p>
 
 
