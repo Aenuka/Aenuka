@@ -41,6 +41,6 @@
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
 <a href="https://www.aenuka.com/" target="_blank">
-  <img src="rect63.png" width="120" height="80" alt="Website Profile Image">
+  <img src="rect63.png" width="80" alt="Website Profile Image">
 </a>
 </p>
