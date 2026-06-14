@@ -1,4 +1,6 @@
 <h1 align="center">Aenuka's Github Profile</h1>
+<img src="rectL26.png" width="120" style="border-radius:50%;" />
+
 
 <p align="center">
   🎓 Software Engineering Undergraduate at <strong>SLIIT</strong><br>
